@@ -43,9 +43,6 @@
                 23,
                 24,
                 25
-            ],
-            "STACK_BIT": [
-                31
             ]
         },
         "mcconfig": {
@@ -75,7 +72,7 @@
                 "nbrOfDevices": 1,
                 "nbrOfPseudoChannels": 2,
                 "nbrOfRows": 65536,
-                "nbrOfStacks": 2,
+                "nbrOfStacks": 1,
                 "width": 64
             },
             "memoryId": "https://www.computerbase.de/2019-05/amd-memory-tweak-vram-oc/#bilder",
@@ -109,7 +106,7 @@
                 "WTRS": 4,
                 "XP": 8,
                 "XS": 216,
-                "tCK": 1000
+                "tCK": 1e-9
             }
         },
         "simconfig": {
